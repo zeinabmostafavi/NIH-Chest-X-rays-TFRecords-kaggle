@@ -1,7 +1,7 @@
 # Explainable-TFR-X-ray-classifier-kaggle-
 
 
-## Data: 
+## Data set: 
 https://www.kaggle.com/nickuzmenkov/nih-chest-xrays-tfrecords?select=preprocessed_data.csv
 
 The dataset includes chest x-ray images to classify different diagnoses of diseases. There are 15 categories of diagnosis and 256 images (600 x 600). Additional patient information like age, sex, etc. are not included.
