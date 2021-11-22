@@ -11,5 +11,5 @@ Disease Categories: None, Atelectasis, Consolidation, Infiltration, Pneumothorax
 ![5](https://user-images.githubusercontent.com/80622132/141941339-b5beccb2-7d05-49b3-9f6b-88f29a497e31.JPG)
 loss| binary_accuracy
  --- | ---
-| 0.2055  |0.9293
-![explainable_tfr_x_ray_classifier](https://user-images.githubusercontent.com/80622132/142836167-0a5ab638-e064-499c-92c2-5f7bf9db6d9a.jpg)
+| 0.2055  |0.9293!
+[explainable_tfr_x_ray_classifier](https://user-images.githubusercontent.com/80622132/142836167-0a5ab638-e064-499c-92c2-5f7bf9db6d9a.jpg)
